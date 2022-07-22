@@ -30,4 +30,6 @@ It will also copy the header to your clipboard automatically.
 
 ## Credits
 
-Inspired by transmissions11's [`headers`](https://github.com/transmissions11/headers).
+- Inspired by transmissions11's [`headers`](https://github.com/transmissions11/headers).
+
+- Typescript template by paulrberg's [`typescript-template`](https://github.com/paulrberg/typescript-template).
