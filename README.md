@@ -7,9 +7,7 @@ Generate perfect code headers every time.
 ## Installation
 
 ```sh
-$ yarn add sol-headers
-or
-$ npm install sol-headers
+$ npm install -g sol-headers
 ```
 
 ## Usage
